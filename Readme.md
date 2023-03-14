@@ -26,4 +26,4 @@
 
 Проверка, корректоности заполнения полей:
 
-<a href="url"><img src="![image](https://user-images.githubusercontent.com/90133237/225084622-c437a295-59ce-40ce-ad98-ddab55ced2d3.png)" align="left" width="600" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225084622-c437a295-59ce-40ce-ad98-ddab55ced2d3.png" align="left" width="600" ></a>
