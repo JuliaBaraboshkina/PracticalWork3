@@ -26,3 +26,11 @@
 #### Проверка, корректоности заполнения полей:
 
 <a href="url"><img src="https://user-images.githubusercontent.com/90133237/225084622-c437a295-59ce-40ce-ad98-ddab55ced2d3.png" width="600" ></a>
+
+#### Главное меню после добавления товара:
+
+<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225086051-7bf7dd8f-6fb6-4ffe-8d43-d44a812e8a9a.png" width="600" ></a>
+
+#### Поиск товаров, названия которых начинаются с «Г»:
+
+<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225086260-bfb5cad6-a303-4313-9c54-31dcd1b7a70f.png" width="600" ></a>
