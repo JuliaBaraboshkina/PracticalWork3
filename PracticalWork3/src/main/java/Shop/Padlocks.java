@@ -10,7 +10,7 @@ public class Padlocks extends LockBase {// навесные замки
     @Override
     public String getInfo() {
         String str = "Название: "+ name + ", Цвет: " + color + ", Вес: " + weight + ", Кол-во ключей в комплекте: " +
-                numOfKeysInc + ", Диаметр петли:" + loopDi+", Гарантия: " + guarantee + ", Цена: " + cost + ", Гарантия: " + guarantee  + ".";
+                numOfKeysInc + ", Диаметр петли:" + loopDi+", Гарантия: " + guarantee + ", Цена: " + cost + ".";
         return str;
     }
     public float getLoopDi(){
