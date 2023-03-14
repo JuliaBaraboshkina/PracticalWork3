@@ -53,8 +53,7 @@
 
 Название: Гардиан-1001, Цвет: Серебро, Вес: 816, Кол-во ключей в комплекте: 4, Глубина: 80, Гарантия: 60, Цена: 1122.
 
-- Главное меню после удаления товара:
+- Удаление товара:
 
- ![image](https://user-images.githubusercontent.com/90133237/225089641-1e732ad9-fe5d-4a8f-a987-f3ab8aef2da2.png)
-
+<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225089641-1e732ad9-fe5d-4a8f-a987-f3ab8aef2da2.png" width="600" ></a>
 
