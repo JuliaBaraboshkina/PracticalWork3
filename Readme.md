@@ -16,4 +16,4 @@
 
 Добавление товара:
 
-<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225084103-76f1864b-675b-4383-8c74-912be24761ab.png" align="left" height="200" width="200" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/90133237/225084103-76f1864b-675b-4383-8c74-912be24761ab.png" align="left" width="500" ></a>
